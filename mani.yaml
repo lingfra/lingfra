@@ -1,0 +1,29 @@
+projects:
+  lingfra:
+    path: .
+  
+  ansible-collection-lingfra-borg:
+    url: ssh://git@codeberg.org/lingfra/ansible-collection-lingfra-borg.git
+  
+  ansible-collection-lingfra-desec:
+    url: ssh://git@codeberg.org/lingfra/ansible-collection-lingfra-desec.git
+  
+  ansible-collection-lingfra-libvirt:
+    url: ssh://git@codeberg.org/lingfra/ansible-collection-lingfra-libvirt.git
+  
+  ansible-collection-lingfra-podman:
+    url: ssh://git@codeberg.org/lingfra/ansible-collection-lingfra-podman.git
+  
+  ansible-collection-lingfra-shell:
+    url: ssh://git@codeberg.org/lingfra/ansible-collection-lingfra-shell.git
+  
+  ansible-collection-lingfra-system:
+    url: ssh://git@codeberg.org/lingfra/ansible-collection-lingfra-system.git
+  
+  profile:
+    url: ssh://git@codeberg.org/lingfra/.profile.git
+  
+tasks:
+  hello:
+    desc: Print Hello World
+    cmd: echo "Hello World"
