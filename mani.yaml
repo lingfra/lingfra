@@ -21,7 +21,7 @@ projects:
     url: ssh://git@github.com/lingfra/ansible-collection-lingfra-system.git
   
   profile:
-    url: ssh://git@github.com/lingfra/.profile.git
+    url: ssh://git@github.com/lingfra/.github.git
   
 tasks:
   hello:
