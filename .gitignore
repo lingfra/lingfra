@@ -1,9 +1,12 @@
 # mani #
 profile
+ansible-collection-template
 ansible-collection-lingfra-system
 ansible-collection-lingfra-shell
 ansible-collection-lingfra-podman
 ansible-collection-lingfra-libvirt
 ansible-collection-lingfra-desec
 ansible-collection-lingfra-borg
+aar-doc-config
+pre-commit-aar-doc
 # mani #

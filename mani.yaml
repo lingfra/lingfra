@@ -1,6 +1,9 @@
 projects:
   lingfra:
     path: .
+
+  aar-doc-config:
+    url: ssh://git@github.com/lingfra/aar-doc-config.git
   
   ansible-collection-lingfra-borg:
     url: ssh://git@github.com/lingfra/ansible-collection-lingfra-borg.git
@@ -23,6 +26,9 @@ projects:
   ansible-collection-template:
     url: git@github.com:lingfra/ansible-collection-template.git
   
+  pre-commit-aar-doc:
+    url: ssh://git@github.com/lingfra/pre-commit-aar-doc.git
+
   profile:
     url: ssh://git@github.com/lingfra/.github.git
   
