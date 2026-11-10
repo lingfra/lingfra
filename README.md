@@ -8,7 +8,7 @@ Sync all repositories at once with [mani][mani]
 > [mani][mani] need to be installed.
 
 ```bash
-ssh://git@codeberg.org/lingfra/lingfra.git
+git clone ssh://git@github.com/lingfra/lingfra.git
 cd lingfra
 mani sync
 ```
