@@ -19,6 +19,9 @@ projects:
   
   ansible-collection-lingfra-system:
     url: ssh://git@github.com/lingfra/ansible-collection-lingfra-system.git
+
+  ansible-collection-template:
+    url: git@github.com:lingfra/ansible-collection-template.git
   
   profile:
     url: ssh://git@github.com/lingfra/.github.git
